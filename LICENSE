@@ -1,0 +1,12 @@
+# Licences
+
+This repository is dual-licensed.
+
+- **Written content** (README.md, methodology-shared.md, AGENT_CONTEXT.md, the files under `cases/`, and any narrative drafts) is licensed under the Creative Commons Attribution 4.0 International Licence. See [LICENSES/CC-BY-4.0.txt](LICENSES/CC-BY-4.0.txt).
+- **Code and structured data** (any scripts or machine-readable data committed to this repository) are licensed under the MIT Licence. See [LICENSES/MIT.txt](LICENSES/MIT.txt).
+
+Each individual case repository carries the same dual-licence structure.
+
+When reusing, cite this repository per [CITATION.cff](CITATION.cff).
+
+Copyright (c) 2026 Ant Newman, TortoiseAI.
