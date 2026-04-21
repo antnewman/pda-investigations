@@ -1,0 +1,41 @@
+cff-version: 1.2.0
+title: "PDA Investigations"
+message: "If you cite the PDA Investigations programme as a whole, please use the metadata below. Each individual case has its own citation file."
+type: dataset
+authors:
+  - family-names: Newman
+    given-names: Ant
+    affiliation: "TortoiseAI"
+    orcid: "https://orcid.org/0000-0002-8612-3647"
+repository-code: "https://github.com/antnewman/pda-investigations"
+url: "https://github.com/antnewman/pda-investigations"
+license:
+  - MIT
+  - CC-BY-4.0
+date-released: "2026-04-21"
+keywords:
+  - public programme reassessment
+  - UK government
+  - major programmes
+  - assumption drift
+  - Public Accounts Committee
+  - National Audit Office
+  - IPA
+  - NISTA
+  - public data
+abstract: >-
+  An umbrella programme of public-data investigations of UK major
+  programmes, conducted using the open-source PDA Platform. Each case
+  takes a recommendation formally made by a public scrutiny body (the
+  NAO, PAC, IPA, NISTA, or an equivalent), operationalises it against
+  current public data, and publishes a reviewed narrative report
+  alongside the data and the code. Written content is CC BY 4.0; code
+  and structured data are MIT.
+references:
+  - type: software
+    title: "PDA Platform"
+    authors:
+      - family-names: Newman
+        given-names: Ant
+        affiliation: "TortoiseAI"
+    url: "https://github.com/antnewman/pda-platform"
