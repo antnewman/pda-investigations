@@ -19,6 +19,7 @@ This repository is the umbrella. Each case has its own repository.
 | Case | Repository | Status |
 |---|---|---|
 | MTD assumption drift at the point of £50k mandation | [`mtd-assumption-drift-2026`](https://github.com/antnewman/mtd-assumption-drift-2026) | In progress (April 2026) |
+| Crossrail retrospective drift analysis | [`crossrail-retrospective-2026`](https://github.com/antnewman/crossrail-retrospective-2026) | In progress (April 2026) |
 
 See [`cases/`](cases/) for the full index with short case summaries.
 
