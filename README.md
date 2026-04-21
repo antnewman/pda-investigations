@@ -2,7 +2,7 @@
 
 Public-data investigations of UK major programmes, conducted using the open-source [PDA Platform](https://github.com/antnewman/pda-platform) and published under CC BY 4.0 for written content and MIT for code and structured data.
 
-**Programme lead:** Ant Newman CEng (MIET, MIEEE), TortoiseAI. ORCID: [0000-0002-8612-3647](https://orcid.org/0000-0002-8612-3647).
+**Programme lead:** Ant Newman, TortoiseAI. ORCID: [0000-0002-8612-3647](https://orcid.org/0000-0002-8612-3647).
 
 ---
 

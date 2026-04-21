@@ -71,6 +71,6 @@ The programme as a whole has a citation record in `CITATION.cff` at the umbrella
 
 ## Correspondence
 
-Programme lead: Ant Newman CEng, TortoiseAI. ORCID [0000-0002-8612-3647](https://orcid.org/0000-0002-8612-3647).
+Programme lead: Ant Newman, TortoiseAI. ORCID [0000-0002-8612-3647](https://orcid.org/0000-0002-8612-3647).
 
 Issues, corrections, and collaboration proposals are welcome as issues on the relevant case repository, or on this umbrella repository if they apply to the programme as a whole.
